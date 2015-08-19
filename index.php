@@ -32,7 +32,10 @@ if($response){
 
 ?>
 
-    <p>HELLO!</p>
+    <html>
+        <head><title>Your Website</title></head>
+        <body><p>HELLO!</p></body>
+    </html>
 
 <?php
 }
